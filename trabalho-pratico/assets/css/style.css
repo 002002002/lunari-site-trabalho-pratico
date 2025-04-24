@@ -1,0 +1,32 @@
+.carousel-inner img{
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.card img{
+  height: 200px;
+  object-fit: cover;
+}
+
+h2 {
+  
+}
+
+footer {
+  width: 100vw;
+  text-align: left;
+  padding: 1vh;
+  padding-bottom: 3vh;
+}
+
+.first{
+  width: 50vw;
+}
+
+.fa-user{
+  font-size: 80px;
+}
+
+.redes{
+  font-size: 30px;
+}
